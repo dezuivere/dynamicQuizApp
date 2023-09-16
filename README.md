@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Dynamic_Quiz_App
 
 ## Available Scripts
 
@@ -32,4 +32,4 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 
 
-# Dynamic_Quiz_App
+
