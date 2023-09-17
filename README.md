@@ -20,11 +20,11 @@ To run this application on your local machine, follow these steps:
 2.Navigate to the project directory.
 
   
-## cd dynamic-quiz-app
+ cd dynamic-quiz-app
 
 3.Start the application.
 
-##  npm start
+ npm start
 
 Usage
 
