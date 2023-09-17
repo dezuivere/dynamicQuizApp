@@ -18,11 +18,13 @@ To run this application on your local machine, follow these steps:
    https://github.com/Shwethaarao/Dynamic_Quiz_App.git
    
 2.Navigate to the project directory.
-  
+
+  ```bash
   cd dynamic-quiz-app
 
 3.Start the application.
 
+```bash
   npm start
 
 Usage
