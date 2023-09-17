@@ -15,6 +15,7 @@ To run this application on your local machine, follow these steps:
 1. Clone this repository to your local environment.
 
    ```bash
+   https://github.com/Shwethaarao/Dynamic_Quiz_App.git
    
 2.Navigate to the project directory.
   
